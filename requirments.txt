@@ -3,3 +3,4 @@ Set up my virtual environment using venv and named it myvenv and activated it
 Installed panda version 2.2.3
 instatlled matplotlib 3.9.3 and seaborn 0.13.2
 if the impoered libraries won't load even after reseting you kernel you should uninstall the extention Pylance, close and reopen vs code and install the extention Pylance again
+installed scipy 1.14.1
