@@ -1,0 +1,4 @@
+I  installed python version 3.12.8 
+Set up my virtual environment using venv and named it myvenv and activated it 
+Installed panda automatically too
+instatlled matplotlib 3.9.3 and seaborn 0.13.2
