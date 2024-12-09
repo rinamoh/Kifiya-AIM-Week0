@@ -16,7 +16,9 @@ def data_header(dataframe):
 def interactive_plot(dataframe):
     x_axis_val=st.selectbox('Select X-Axis Value', options=dataframe.columns)
     y_axis_val=st.selectbox('Select Y-Axis Value', options=dataframe.columns)
-
+#this plots the options that the user chose 
+    plot=px.scatter(dataframe,x=x_axis_val, y=y_axis_val)
+    st.plotly_chart(plot)
 
 # df=pd.DataFrame()
 st.title("Dashboard Page")
