@@ -11,4 +11,4 @@ https://dashboardweekone.streamlit.app/
 **Installation Instructions**:To Install the Project you can 
    Clone the Repository using git clone, cd to it and then install all the required dependencies that can be found in requirements.txt file.
    
-**Usage**: If you want to run the dashboard you can cd to app from the original repo folder and then run the following command. 'streamlit run app/main.py'
+**Usage**: If you want to run the dashboard you can cd to app from the original repo folder and then run the following command.  'streamlit run app/main.py'
